@@ -1,9 +1,6 @@
 <?php
 session_start();
 unset($_SESSION['user']);  
-unset($_SESSION['fb_283750735145935_code']);  
-unset($_SESSION['fb_283750735145935_access_token']);  
-unset($_SESSION['fb_283750735145935_user_id']);  
 //
 /*unset($_SESSION['reg']);
 unset($_SESSION['reg2']);*/
