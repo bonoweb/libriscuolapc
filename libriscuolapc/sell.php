@@ -27,6 +27,7 @@ include_once "functions.inc.php" ;
 <!--<script src="http://malsup.github.io/min/jquery.form.min.js"></script>-->
 
 <!--add lines-->
+<!--add lines too-->
 <script language="javascript" type="text/javascript">
 
 $(function(){
