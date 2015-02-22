@@ -25,6 +25,8 @@ include_once "functions.inc.php" ;
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <!--<script src="http://malsup.github.io/min/jquery.form.min.js"></script>-->
+
+<!--add lines-->
 <script language="javascript" type="text/javascript">
 
 $(function(){
